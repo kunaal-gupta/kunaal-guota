@@ -1,10 +1,6 @@
-
 A full-stack software engineer who aspires to collaborate with multidisciplinary developers to develop and deliver sustainable technologies in an Agile environment while ensuring optimal functionality, quality, and reliability.
  
 **Licenses & Credentials**: Business Analysis & Project Management, Getting Started with Azure DevOps Board, Project Management Fundamentals, Blockchain Essentials, and Design Thinking.
-
-
-
 
 
 <h3 align="left"> <b> Languages and Tools: </b> </h3>
