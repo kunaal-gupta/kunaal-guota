@@ -1,7 +1,7 @@
 
-A full-stack Software Engineer, pursuing a Bachelor's degree from the University of Alberta
+A full-stack software engineer who aspires to collaborate with multidisciplinary developers to develop and deliver sustainable technologies in an Agile environment while ensuring optimal functionality, quality, and reliability.
  
- I also hold credentials in non-credit courses such as Business Analysis & Project Management, Getting Started with Azure DevOps Board, Project Management Fundamentals, Blockchain Essentials, and Design Thinking.
+**Licenses & Credentials**: Business Analysis & Project Management, Getting Started with Azure DevOps Board, Project Management Fundamentals, Blockchain Essentials, and Design Thinking.
 
 
 
