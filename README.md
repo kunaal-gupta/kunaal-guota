@@ -1,4 +1,4 @@
-A full-stack software engineer who aspires to  to develop and deliver sustainable technologies in an Agile environment while ensuring optimal functionality, quality, and reliability.
+A full-stack software engineer who aspires to develop and deliver sustainable technologies in an Agile environment while ensuring optimal functionality, quality, and reliability.
  
 **Licenses & Credentials**: Introduction to Web Development with HTML, CSS, JavaScript; Fundamentals of Agile Project Management; Business Analysis & Project Management; Getting Started with Azure DevOps Board; Project Management Fundamentals; Blockchain Essentials, and Design Thinking.
 
