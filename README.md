@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm a full-stack software engineer who aspires to develop and deliver sustainable technologies in an Agile environment while ensuring optimal functionality, quality, and reliability.<br><br>Languages: Python - Django, Pandas, NumPy, OpenCV, Matplotlib, SciKit, Tkinter | C++ | JS, Ajax, jQuery, HTML5/CSS | Blockchain, Solidity, ETH, | MongoDB, MySQL, SQLite | Testing |<br><br>Tools: PyCharm, Visual Studio Code, JIRA, GitHub, Truffle, Metamask, Ganache, Remix IDE, MS Suite<br><br>Website: https://kunaal-gupta.github.io/ <br>GitHub: https://github.com/kunaal-gupta/
+Hello! 👋 I'm a results-driven full-stack software developer passionate about building innovative solutions using the latest tech stack in an Agile environment. With a focus on optimal functionality, quality, and reliability, I excel at developing robust software systems.
+
+My expertise lies in Python with frameworks like <b> Django, Pandas, NumPy, OpenCV, Matplotlib, SciKit, and Tkinter </b>. I'm also proficient in <b> C++, JavaScript, Ajax, HTML5/CSS, React & Node.JS  </b> and have hands-on experience with blockchain technologies, specifically Solidity and Ethereum.
+
+In addition, I have a great understanding of database management systems such as MongoDB, MySQL, and SQLite. To streamline my work, I employ various tools including  <b> PyCharm, Visual Studio Code, JIRA, GitHub, Truffle, Metamask, Ganache, Remix IDE, and the Microsoft Suite.</b>
+
+Feel free to explore my projects and contributions on my GitHub and visit my website for more information. Let's connect and collaborate on exciting tech projects!"
 
 
 ## 🌐 Socials:
