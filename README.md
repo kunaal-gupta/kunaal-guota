@@ -1,9 +1,9 @@
 # 💫 About Me:
 Hello! 👋 I'm a results-driven full-stack software developer passionate about building innovative solutions using the latest tech stack in an Agile environment. With a focus on optimal functionality, quality, and reliability, I excel at developing robust software systems.
 
-My expertise lies in Python with frameworks like <b> Django, Pandas, NumPy, OpenCV, Matplotlib, SciKit, and Tkinter </b>. I'm also proficient in <b> C++, JavaScript, Ajax, HTML5/CSS, React & Node.JS  </b> and have hands-on experience with blockchain technologies, specifically Solidity and Ethereum.
+My expertise lies in Python with frameworks like <b> Django </b> and libraries like <b> Pandas, NumPy, OpenCV, Matplotlib, SciKit, and Tkinter </b>. I'm also proficient in <b> C++, JavaScript, Ajax, HTML5/CSS, React & Node.JS  </b> and have hands-on experience with blockchain technologies, specifically <b> Solidity and Ethereum </b>.
 
-In addition, I have a great understanding of database management systems such as MongoDB, MySQL, and SQLite. To streamline my work, I employ various tools including  <b> PyCharm, Visual Studio Code, JIRA, GitHub, Truffle, Metamask, Ganache, Remix IDE, and the Microsoft Suite.</b>
+In addition, I have a great understanding of database management systems such as  <b> MongoDB, MySQL, and SQLite </b>. To streamline my work, I employ various tools including  <b> PyCharm, Visual Studio Code, JIRA, GitHub, Truffle, Metamask, Ganache, Remix IDE, and the Microsoft Suite.</b>
 
 Feel free to explore my projects and contributions on my GitHub and visit my website for more information. Let's connect and collaborate on exciting tech projects!"
 
