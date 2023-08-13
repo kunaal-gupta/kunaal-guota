@@ -1,4 +1,5 @@
-# 💫 About Me:
+![kUNAAL GUPTA](https://github.com/kunaal-gupta/kunaal-gupta/assets/87749508/1955f1bb-c5b2-4946-843b-3c4746693fd3)
+
 Hello! 👋 I'm a results-driven full-stack software developer passionate about building innovative solutions using the latest tech stack in an Agile environment. With a focus on optimal functionality, quality, and reliability, I excel at developing robust software systems.
 
 My expertise lies in Python with frameworks like <b> Django </b> and libraries like <b> Pandas, NumPy, OpenCV, Matplotlib, SciKit, and Tkinter </b>. I'm also proficient in <b> C++, JavaScript, Ajax, HTML5/CSS, React & Node.JS  </b> and have hands-on experience with blockchain technologies, specifically <b> Solidity and Ethereum </b>.
