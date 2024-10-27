@@ -1,12 +1,13 @@
 ![kUNAAL GUPTA](https://github.com/kunaal-gupta/kunaal-gupta/assets/87749508/1955f1bb-c5b2-4946-843b-3c4746693fd3)
 Hello! 👋 I'm a results-driven full-stack software developer passionate about building innovative solutions using the latest tech stack in an Agile environment. With a focus on optimal functionality, quality, and reliability, I excel at developing robust software systems.
 
+• 💻𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: Python, Java, Maven, JavaScript, C#, HTML/CSS, Solidity</br>
+• 🔧𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸: Django, Flask, React, Ethereum, .NET, SpringBoot</br>
+• 📚 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀: Pandas, NumPy, OpenCV, Matplotlib, SciKit, Tkinter, NodeJs, ExpressJS, SolidJs</br>
+• 🛠️ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 & 𝗧𝗼𝗼𝗹𝘀: PyCharm, Visual Studio Code, JIRA, GitHub, Remix IDE, Truffle, Metamask, Ganache, ServiceNow, Ivanti, eCO, Control-M </br>
+• 💾 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: MySQL, MongoDB, SQLite, MS SQL Server</br>
+• Clouds: AWS, Azure
 
-𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: Python, JavaScript, C++, HTML, CSS, Ajax, Solidity</br>
-𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸: Django, React, Ethereum</br>
-𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀: Pandas, NumPy, OpenCV, Matplotlib, SciKit, Tkinter, NodeJs, ExpressJS</br>
-𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 & 𝗧𝗼𝗼𝗹𝘀: PyCharm, Visual Studio Code, JIRA, GitHub, Remix IDE, Truffle, Metamask, Ganache</br>
-𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: MySQL, MongoDB, SQLite</br>
 
 Feel free to explore my projects and contributions on my GitHub and visit my website for more information. Let's connect and collaborate on exciting tech projects!"
 
