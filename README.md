@@ -1,6 +1,7 @@
 ![kUNAAL GUPTA](https://github.com/kunaal-gupta/kunaal-gupta/assets/87749508/1955f1bb-c5b2-4946-843b-3c4746693fd3)
-Hello! 👋 I'm a results-driven full-stack software developer passionate about building innovative solutions using the latest tech stack in an Agile environment. With a focus on optimal functionality, quality, and reliability, I excel at developing robust software systems.
+Hello! 👋 I'm a Software developer & Data Analyst with 3+ year experience, and SWE @Bell, ex- Research Assistant @UofA, ex-Technology Support Student at WCB – Alberta. Final year Computer Science student at UAlberta with a Business Minor
 
+With a focus on optimal functionality, quality, and reliability, I excel at developing robust software systems.
 • 💻𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: Python, Java, Maven JavaScript, C#, HTML/CSS, Solidity</br>
 • 🔧𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸: Django, Flask, React, Ethereum, .NET, SpringBoot</br>
 • 📚 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀: Pandas, NumPy, OpenCV, Matplotlib, SciKit, Tkinter, NodeJs, ExpressJS, SolidJs</br>
